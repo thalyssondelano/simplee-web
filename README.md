@@ -21,7 +21,6 @@ Este projeto foi desenvolvido como projeto final da disciplina Programação par
 3. [Thalysson Delano Borges Ferreira](https://github.com/thalyssonDEV)
 
 ## Sumário
-- [Link do Video Explicativo](#link-do-video-explicativo)
 - [Principais Diferenciais](#principais-diferenciais)
 - [Funcionalidades](#funcionalidades)
   - [Funcionalidades Principais](#funcionalidades-principais)
